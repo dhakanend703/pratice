@@ -1,0 +1,67 @@
+table {
+  width: 60%;
+  background-color: cadetblue;
+  margin: 20px auto;
+}
+
+input[type="text"],
+input[type="Number"] {
+  width: 50%;
+  margin: 20px auto;
+  padding: 12px 40px;
+  display: flex;
+  border: 2px solid rgb(156, 204, 206);
+  text-align: center;
+  justify-content: center;
+}
+table.list {
+  width: 100%;
+  border: 2px solid rgb(156, 204, 206);
+  text-align: center;
+  justify-content: center;
+}
+input {
+  margin-left: 20px;
+}
+
+.one {
+  margin-left: 400px;
+  justify-content: center;
+}
+.one1 {
+  margin-left: 350px;
+  justify-content: center;
+}
+.ele {
+  margin-left: 370px;
+  margin-top: 20px;
+  display: flex;
+}
+body {
+ 
+  font-size: 20px;
+}
+button {
+  height: 30px;
+  width: 70px;
+}
+.ele {
+  height: 30px;
+  width: 80px;
+}
+.on{
+    background-color: greenyellow;
+    font-weight: bold;
+}
+.of{
+    background-color: red;
+    font-weight: bold;
+}
+.onn{
+    background-color: greenyellow;
+    font-weight: bold;
+}
+.off{
+    background-color: red;
+    font-weight: bold;
+}
